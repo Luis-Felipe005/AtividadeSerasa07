@@ -1,0 +1,8 @@
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\bin\Debug\AtividadeSerasa07.exe.config
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\bin\Debug\AtividadeSerasa07.exe
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\bin\Debug\AtividadeSerasa07.pdb
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\obj\Debug\AtividadeSerasa07.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\obj\Debug\AtividadeSerasa07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\obj\Debug\AtividadeSerasa07.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\obj\Debug\AtividadeSerasa07.exe
+C:\Users\Felipe\source\repos\AtividadeSerasa07\AtividadeSerasa07\obj\Debug\AtividadeSerasa07.pdb
